@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // File       : alu_tb.sv
-// Author     : Pavan Pai/ 1BM23EC179
+// Author     : Manyashree P/ 1BM23EC143
 // Project    : SystemVerilog and Verification (23EC6PE2SV)
 // Description: Cadence-compatible ALU testbench with functional coverage
 //------------------------------------------------------------------------------
