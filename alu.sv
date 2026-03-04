@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // File       : alu.sv
-// Author     : Pavan Pai/ 1BM23EC179
+// Author     : Manyashree P/ 1BM23EC143
 // Project    : SystemVerilog and Verification (23EC6PE2SV)
 // Description: 2-input 8-bit ALU
 //------------------------------------------------------------------------------
